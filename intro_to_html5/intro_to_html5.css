@@ -38,6 +38,14 @@ nav a{
 	width:22%;
 }
 
+nav a:hover{
+	font-size: 120%;
+	background-color: blue;
+	color: white;
+
+
+}
+
 h2{
 	color: #666666;
 	background: #00b7ea;
